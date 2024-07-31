@@ -1,3 +1,13 @@
+# Emacs Next: New Design Solution 2024
+
+1. Workflow design UI by eLisp and webview engine;
+2. Support doom-emacs style to be compatible with vi and emacs shortcut commands;
+3. Try to use webview typesetting engine to support high-definition text scaling, text typesetting, pictures, videos, and hardware acceleration;
+4. Supports interaction between webview and elisp and is compatible with format format standards;
+5. Support interaction between elisp and javascript;
+6. All of the above can be interacted with workflow design UI under Emacs.
+
+> ------ GNU License ------
 Copyright (C) 2001-2024 Free Software Foundation, Inc.
 See the end of the file for license conditions.
 
